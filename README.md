@@ -1,5 +1,5 @@
 # Thinking-React
-Getting started with React
+
 JS library built by Facebook
 	• Designed to build very interactive and dynamic UI.
 
